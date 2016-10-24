@@ -13,6 +13,9 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "browserslist": "^1.4.0"
+    "browserslist": "^1.4.0",
+    "css-loader" : "^0.25.0",
+    "style-loader" : "^0.13.1",
+    "webpack":"^1.13.2"
   }
 }
