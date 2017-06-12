@@ -8,14 +8,20 @@ a.innerHTML = name;
 document.getElementById('root').appendChild(a);
 
 
-let b = document.createElement('img');
+/*let b = document.createElement('img');
 b.setAttribute('src', 'images/account_icon.png');
-document.getElementById('root').appendChild(b);
+document.getElementById('root').appendChild(b);*/
+
 
 
 let c = document.createElement('div');
 c.setAttribute('class', 'test');
 document.getElementById('root').appendChild(c);
+
+
+let d = document.createElement('div');
+d.setAttribute('class', 'test1');
+document.getElementById('root').appendChild(d);
 
 
 
