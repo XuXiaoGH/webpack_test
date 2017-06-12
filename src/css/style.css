@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+
+.test {
+    border:1px solid red;
+    width: 720px;
+    height: 600px;
+    background: url("../images/demo.png");
+}
+
+.test1 {
+    background: url("../images/account_icon.png");
+}
+
+a{
+    transition :transform 1s
+}
